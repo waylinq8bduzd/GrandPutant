@@ -1,1 +1,1 @@
-# GrandPutant
+# GrandPutant team project
