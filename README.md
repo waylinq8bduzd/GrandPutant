@@ -1,5 +1,2 @@
-# GrandPutant team project
-
-
-
+# GrandPutant team project.
 
